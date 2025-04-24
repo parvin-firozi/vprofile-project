@@ -10,7 +10,7 @@
 - Maven
 - JSP
 - MySQL
-## Databases
+## Database
 Here,we used Mysql DB 
 MSQL DB Installation Steps for Linux ubuntu 14.04:
 - $ sudo apt-get update
@@ -21,4 +21,5 @@ Then look for the file :
 - accountsdb.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
+# Test trigger from GitHub
 
